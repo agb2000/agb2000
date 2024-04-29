@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hola, soy <a href="https://portfolio-production-41dd.up.railway.app/">AlbertoDev</a></h1>
 </div>
-<img src="https://a1.eestatic.com/cronicaglobal/2015/01/15/business/business_3511067_3607749_1706x960.jpg">
+<img src="https://blog.communicationcrafts.com/wp-content/uploads/sites/2/2023/02/Everything-worth-knowing-about-Full-Stack-Development_banner.png">
 
 <!--
 **agb2000/agb2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
